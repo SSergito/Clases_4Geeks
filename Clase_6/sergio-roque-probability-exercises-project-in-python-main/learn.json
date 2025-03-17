@@ -1,0 +1,23 @@
+{
+	"title" : {
+		"us": "Probability Exercises Project in Python",
+		"es": "Proyecto de Ejercicios de Probabilidad con Python"
+	},
+	"slug" : "probability-exercises-project-in-python",
+	"preview": "https://github.com/4GeeksAcademy/probability-exercises-project-in-python/blob/main/preview.jpeg?raw=true",
+	"solution": "https://github.com/4GeeksAcademy/probability-exercises-project-in-python/blob/main/notebook/solutions.ipynb",
+	"status": "published",
+	"translations": ["us"],
+	"technologies": ["matplotlib", "numpy", "pandas", "python, github", "machine learning", "data science"],
+	"difficulty": "beginner",
+	"syntax": "python",
+	"duration" : 2,
+	"template_url": "self",
+    	"projectType": "project",
+	"autoStart": false,
+	"description" : {
+		"us": "Use your skills with numpy, pandas, and matplotlib to practice some probability concepts.",
+    		"es": "Usa tus habilidades con numpy, pandas y matplotlib para practicar un poco sobre probabilidades."
+	},
+	"gitpod":true
+}

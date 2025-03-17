@@ -1,0 +1,25 @@
+{
+    	"gitpod": true,
+    	"title" : {
+	    "us": "Calculus and Algebra problems with Python",
+	    "es": "Problemas de Calculo y Algebra con Python"
+	},
+	"slug" : "calculus-and-algebra-problems-with-python",
+	"preview": "https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/preview.jpeg",
+	"solution": "https://github.com/breatheco-de/calculus-and-algebra-problems-with-python/blob/main/solutions.ipynb",
+	"status": "published",
+	"translations": ["es", "us"],
+	"technologies": ["matplotlib", "numpy", "pandas", "python"],
+	"difficulty": "beginner",
+	"syntax": "python",
+	"duration" : 2,
+    	"projectType": "project",
+	"autoStart": false,
+	"description" : {
+	    "us": "Practice your calculus and algebra skills using Python with NumPy, Pandas, and Matplotlib. Work through real-life exercises like calculating speed, acceleration, and cost optimization. Build functions, graphs, and tables while learning key concepts in calculus and linear algebra, such as derivatives and matrix operations.",
+	    "es": "Practica tus habilidades en cálculo y álgebra usando Python con NumPy, Pandas y Matplotlib. Resuelve ejercicios de la vida real como calcular velocidad, aceleración y optimización de costos. Construye funciones, gráficos y tablas mientras aprendes conceptos clave en cálculo y álgebra lineal, como derivadas y operaciones con matrices."
+	},
+	 "telemetry": {
+	    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=357"
+	}
+}
