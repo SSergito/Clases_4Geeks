@@ -1,0 +1,24 @@
+{
+	"slug" : "connecting-to-a-sql-database-project-tutorial",
+	"title" : {
+		"us": "Connecting to a SQL Database Project Tutorial",
+		"es": "Conectándose a una base de datos SQL por primera vez"
+	},
+	"preview": "https://github.com/4GeeksAcademy/connecting-to-a-sql-database-project-tutorial/blob/main/assets/preview.png?raw=true",
+	"solution": "https://github.com/4GeeksAcademy/connecting-to-a-sql-database-project-tutorial/blob/main/src/solution.py",
+	"status": "published",
+	"translations": ["us"],
+	"video-id": "nJzQt_3p_TM",
+	"technologies": ["sql", "mysql", "postgresql", "sqlalchemy", "psycopg2", "pandas", "dotenv", "machine learning", "data science", "back-end", "databases", "python"],
+	"difficulty": "beginner",
+	"syntax": "python",
+	"template_url": "self",
+	"projectType": "project",
+	"duration" : 2,
+	"autoStart": "false",
+	"description" : {
+		"us": "Create a SQL database using the PostgreSQL engine and using a professional python project structure that includes PIP and environment variables.",
+		"es": "Crea una base de datos SQL utilizando el motor PostgreSQL y una estructura de proyecto profesional en Python que incluya PIP y variables de entorno."
+	},
+	"gitpod": true
+}
