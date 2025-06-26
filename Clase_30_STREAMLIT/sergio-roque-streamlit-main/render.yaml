@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: salud-mental-app
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run src/app.py --server.port $PORT --server.enableCORS false
+    plan: free
